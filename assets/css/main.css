@@ -221,7 +221,6 @@ a, button{
     letter-spacing: -0.01em;
     color: var(--bg1);
 }
-
 ._header_agency_left_acc_box {
     background-image: url("../img/header-left-rectangle.svg");
     background-repeat: no-repeat;
@@ -263,7 +262,6 @@ a, button{
         transform: scale(1.06) translateY(-5px);
     }
 }
-
 ._header_agency_marquee_wrap {
     width: 100%;
     margin: 0 auto;
@@ -370,9 +368,6 @@ a, button{
     }
 }
 /* Mobile */
-@media only screen and (max-width: 575px) {
-    
-}
 @media only screen and (max-width: 420px) {
     ._header_agency_left_cont_form {
         width: auto;
@@ -385,7 +380,6 @@ a, button{
         font-size: 15px;
     }
 }
-@media only screen and (max-width: 375px) {}
 /*header agency section end*/
 
 /*service agency section*/
@@ -571,7 +565,6 @@ a, button{
         font-size: 14px;
     }
 }
-@media only screen and (max-width: 375px) {}
 /*service agency section end*/
 
 /*works agency section end*/
@@ -775,7 +768,6 @@ a, button{
         min-height: 508px;
     }
 }
-@media only screen and (max-width: 375px) {}
 /*works agency section end*/
 
 /*pricing agency section*/
@@ -1099,10 +1091,6 @@ a, button{
         left: 60px;
     }
 }
-/* Ipad/Mobile L */
-@media only screen and (max-width: 767px) {
-    
-}
 /* Mobile */
 @media only screen and (max-width: 575px) {
     ._testimonial_agency_wrapper {
@@ -1110,10 +1098,6 @@ a, button{
         margin-top: 60px;
     }
 }
-@media only screen and (max-width: 420px) {
-    
-}
-@media only screen and (max-width: 375px) {}
 /*testimonial agency section end*/
 
 /*blog agency section*/
@@ -1235,16 +1219,12 @@ a, button{
     }
 }
 /* Mobile */
-@media only screen and (max-width: 575px) {
-    
-}
 @media only screen and (max-width: 420px) {
     ._blog_agency_cont_txt {
         font-size: 30px;
         margin-bottom: 20px;
     }
 }
-@media only screen and (max-width: 375px) {}
 /*blog agency section end*/
 
 /*news agency section*/
@@ -1453,14 +1433,6 @@ a, button{
         font-size: 19px;
     }
 }
-/* Mobile */
-@media only screen and (max-width: 575px) {
-    
-}
-@media only screen and (max-width: 420px) {
-    
-}
-@media only screen and (max-width: 375px) {}
 /*news agency section end*/
 
 /*footer agency section*/
@@ -1570,10 +1542,6 @@ a, button{
         margin-top: 12px;
     }
 }
-@media only screen and (max-width: 420px) {
-    
-}
-@media only screen and (max-width: 375px) {}
 /*footer agency section end*/
 /*------------------
     Variable 
